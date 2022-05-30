@@ -1,3 +1,3 @@
-# Christian Cheng Personal Website
+# Christian Cheng Website
 
 Work in progress
